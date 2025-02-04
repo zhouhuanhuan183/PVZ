@@ -1,0 +1,52 @@
+﻿  tools.cpp
+  vector2.cpp
+D:\Ccode\pvz\res\tools.cpp(91,11): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+D:\Ccode\pvz\vector2.cpp(7,32): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Ccode\pvz\vector2.cpp(7,21): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Ccode\pvz\vector2.cpp(12,32): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Ccode\pvz\vector2.cpp(12,21): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Ccode\pvz\vector2.cpp(17,50): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Ccode\pvz\vector2.cpp(17,27): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Ccode\pvz\vector2.cpp(22,25): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Ccode\pvz\vector2.cpp(22,18): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Ccode\pvz\vector2.cpp(26,28): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Ccode\pvz\vector2.cpp(26,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Ccode\pvz\vector2.cpp(46,39): warning C4244: “return”: 从“double”转换到“__int64”，可能丢失数据
+D:\Ccode\pvz\vector2.cpp(51,37): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Ccode\pvz\vector2.cpp(51,19): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  开始游戏.cpp
+D:\Ccode\pvz\开始游戏.cpp(196,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(282,123): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(282,90): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(312,14): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(311,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(327,46): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(327,29): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(398,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(424,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(425,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(438,21): warning C4244: “初始化”: 从“__int64”转换到“double”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(558,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(558,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(624,39): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(626,19): warning C4244: “初始化”: 从“__int64”转换到“double”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(651,67): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(651,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(652,67): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(652,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(672,30): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(688,30): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(697,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(898,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(899,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(929,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(1090,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(1090,15): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(1116,14): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(1115,35): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(1133,38): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(1133,25): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(1147,49): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\Ccode\pvz\开始游戏.cpp(1147,32): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  正在生成代码...
+  pvz.vcxproj -> D:\Ccode\pvz\x64\Debug\pvz.exe
